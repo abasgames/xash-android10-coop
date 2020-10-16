@@ -6,6 +6,9 @@ to allow screen recorders apps to record internal audio of this game in android 
 all credits to fwgs team
 https://github.com/FWGS
 
+pre-signed apk found here
+https://github.com/abasgames/xash-android10-coop/files/5394213/xash3d.coop.with.internal.audio.support.android.10.and.up.zip
+
 requirements for compiler
 
 1-a pc and an android phone atleast runs android 10.0
