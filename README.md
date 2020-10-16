@@ -14,7 +14,7 @@ requirements for compiler
 
 3-apktool get it from https://ibotpeaches.github.io/Apktool/install/
 
-4-in order to install our compiled apk we well need to sign the apk first i well uses an apk-signer from google play 
+4-in order to install our compiled apk we well need to sign the apk first i well uses apk-signer from google play 
 
 you can found alot of tools to sign your apk in internet
 
