@@ -7,6 +7,7 @@ all credits to fwgs team
 https://github.com/FWGS
 
 requirements for compiler
+
 1-a pc and an android phone atleast runs android 10.0
 
 2-7zip https://www.7-zip.org/
