@@ -22,6 +22,7 @@ requirements for compiler
 you can found alot of tools to sign your apk in internet
 
 time for compiling
+
 1-clone this repo by git clone https://github.com/abasgames/xash-android10-coop
 
 2-right click on xash3d.zip and extract to "xash3d/" with 7zip
