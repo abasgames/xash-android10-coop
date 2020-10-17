@@ -31,7 +31,7 @@ time for compiling
 
 then click open command window here
 
-4-type apktool d xash3d it well takes some seconds to finish. after that
+4-type apktool b xash3d it well takes some seconds to finish. after that
 
 5-go to xash3d folder then dist and you well find the apk there
 
